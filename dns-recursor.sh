@@ -34,7 +34,6 @@ done
 QUERIES="www.google.com
 www.facebook.com
 www.microsoft.com
-foobar.test.de
 "
 
 checks=0
